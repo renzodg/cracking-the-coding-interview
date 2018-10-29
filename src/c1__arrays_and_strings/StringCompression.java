@@ -1,4 +1,4 @@
-package chapter1__arrays_and_strings;
+package c1__arrays_and_strings;
 
 public class StringCompression {
 
